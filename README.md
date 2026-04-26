@@ -149,7 +149,3 @@ The VAE produces blurry faces (visible in the qualitative results) because of th
 - Kingma & Welling, *Auto-Encoding Variational Bayes* (VAE, 2013).
 - Goodfellow et al., *Generative Adversarial Nets* (2014).
 
-## Contributions
-
-- **Akshita** — Data collection, slides, FFHQ VAE training, inverse problem solution
-- **Christian** — Data collection, slides, FFHQ GAN training, inverse problem solution
