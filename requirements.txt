@@ -1,0 +1,13 @@
+torch>=2.0
+torchvision>=0.15
+numpy>=1.23
+matplotlib>=3.6
+scipy>=1.10
+Pillow>=9.4
+tqdm>=4.65
+
+# For FFHQ StyleGAN2 (optional, install only if running demo_ffhq)
+# stylegan2-pytorch>=1.8
+
+# For FID computation (optional)
+# pytorch-fid>=0.3
